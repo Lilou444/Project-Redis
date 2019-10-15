@@ -31,5 +31,5 @@ npm run watch
 
 ## Composition du groupe 
 
-***Phébidias Leïla 
+***Phébidias Leïla ,
 Alfoldiova Michaela*** 
