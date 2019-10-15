@@ -8,8 +8,8 @@
 
 • Réaliser un Dockerfile pour le projet utilisé lors du TP redis  
 • Réaliser un docker-compose pour ce même projet
- •  Supprimez les `(\\d+)` dans le fichier `routes/users.js`
- •  Editez `models/user.js
+• Supprimez les `(\\d+)` dans le fichier `routes/users.js`
+• Editez `models/user.js
 
 ## Indications
 
